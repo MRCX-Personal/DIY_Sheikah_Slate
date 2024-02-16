@@ -2,6 +2,7 @@
 # DIY "REAL" Sheikah Slate form The Legend of Zelda: Breath of the Wild
 
 这个项目使用一台小米5的零件来制作一个“希卡之石”，具有和游戏里面的物品相似的外观。该仓库包含STL格式的3D模型，PCB Gerber以及烧录的程序。
+
 This project uses parts from a Xiaomi 5 to create a "Sheikah Slate" with a similar appearance to the items in the game. This repository includes 3D models in STL format, PCB Gerber, and programs for Atmega328P.
 
 ![pic1]()
@@ -15,9 +16,11 @@ This project uses parts from a Xiaomi 5 to create a "Sheikah Slate" with a simil
 ![pic1]()
 
 成品的演示视频以及制作过程：[哔哩哔哩](https://www.bilibili.com/video/av735567996/)
+
 欢迎三连
 
 The video demonstration and tutorial for this project:[Bilibili](https://www.bilibili.com/video/av735567996/)
+
 I would greatly appreciate it if you press like or subscribe.
 
 **警告：此项目需要拆解一台小米5，使用其主板、屏幕、尾插和电池。请谨慎操作，避免不必要的损失。**
