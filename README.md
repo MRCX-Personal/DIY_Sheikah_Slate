@@ -5,15 +5,15 @@
 
 This project uses parts from a Xiaomi 5 to create a "Sheikah Slate" with a similar appearance to the items in the game. This repository includes 3D models in STL format, PCB Gerber, and programs for Atmega328P.
 
-![pic1]()
+![pic1](https://github.com/MRCX-Personal/DIY_Sheikah_Slate/blob/main/pic/pic%20(1).jpg)
 
-![pic1]()
+![pic1](https://github.com/MRCX-Personal/DIY_Sheikah_Slate/blob/main/pic/pic%20(2).png)
 
-![pic1]()
+![pic1](https://github.com/MRCX-Personal/DIY_Sheikah_Slate/blob/main/pic/pic%20(3).png)
 
-![pic1]()
+![pic1](https://github.com/MRCX-Personal/DIY_Sheikah_Slate/blob/main/pic/pic%20(4).png)
 
-![pic1]()
+![pic1](https://github.com/MRCX-Personal/DIY_Sheikah_Slate/blob/main/pic/pic%20(1).png)
 
 成品的演示视频以及制作过程：[哔哩哔哩](https://www.bilibili.com/video/av735567996/)
 
