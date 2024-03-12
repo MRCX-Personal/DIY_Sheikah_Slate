@@ -1,5 +1,6 @@
-# DIY一台“真正能用”的希卡之石
 # DIY "REAL" Sheikah Slate form The Legend of Zelda: Breath of the Wild
+
+# DIY一台“真正能用”的希卡之石
 
 这个项目使用一台小米5的零件来制作一个“希卡之石”，具有和游戏里面的物品相似的外观。该仓库包含STL格式的3D模型，PCB Gerber以及烧录的程序。
 
